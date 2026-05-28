@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvpdate",
+        "uuid": 38179788,
+        "checksum": "c4ybi"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
